@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{DAD636F7-B520-4B5A-8A73-C8F7E7ED4C23}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AulaMVC/Views/Filmes/Random.cshtml">
+    <Files>
+      <File FileName="AulaMVC/Models/Filme.cs" Line="11" Column="10" />
+      <File FileName="AulaMVC/Controllers/FilmesController.cs" Line="36" Column="50" />
+      <File FileName="AulaMVC/Views/Filmes/Random.cshtml" Line="8" Column="1" />
+      <File FileName="AulaMVC/App_Start/RouteConfig.cs" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AulaMVC" expanded="True">
+            <Node name="AulaMVC" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Filmes" expanded="True">
+                  <Node name="Random.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AulaMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
